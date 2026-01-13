@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px; text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid lightgrey; 
+    margin: 10px; 
+    text-align: center; 
+    font-size: 20px;
+}
+
+tr {
+    background-color: olive; 
+    color: white; 
+    border: 1px solid lightgrey;
+}
+
+.first {
+    background-color: olive; 
+    color: white; 
+    padding: 0px; 
+    border: 1px solid lightgrey;
+}
+
+.kofe {
+    background-color: burlywood; 
+    color: black; padding: 5px; 
+    border: 1px solid lightgrey;
+}
+
+.belka {
+    background-color: white; 
+    color: black; 
+    padding: 5px; 
+    border: 1px solid lightgrey;
+}
+
+td {
+    padding: 5px; 
+    border: 1px solid lightgrey;
+}
